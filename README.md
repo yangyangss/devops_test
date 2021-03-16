@@ -18,7 +18,7 @@ Please prepare one end to end solution to present your solution ideas and the so
     + Version control
     + CI/CD
     + Auto Testing
-    + Artifacts
-    + Coordinate
+    + Artifacts - SSO
+    + Team Coordinate
     + Monitoring
 
