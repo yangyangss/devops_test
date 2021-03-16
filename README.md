@@ -19,6 +19,7 @@ Please prepare one end to end solution to present your solution ideas and the so
     + CI/CD
     + Auto Testing
     + Artifacts - SSO
+    + Library patch
     + Team Coordinate
     + Monitoring
 
